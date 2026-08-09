@@ -1,6 +1,6 @@
 # MAME Arcade Cabinet Construction Project
 
-The complete illustrated project description is available on the [Arcade Cabinart GitHub Pages website](https://pdbuchan.github.io/arcade/).
+The complete illustrated project description is available on the [Arcade Cabinet GitHub Pages website](https://pdbuchan.github.io/arcade/).
 
 This repository documents my construction of an arcade machine cabinet to use with the [Multiple Arcade Machine Emulator](https://www.mamedev.org/).
 
@@ -74,4 +74,6 @@ arcade/
             ├── rip-tie.html
             ├── slotting-cutter.html
             ├── spinner.html
-            └── t-molding.html
+            ├── t-molding.html
+            └── trackball.html
+```

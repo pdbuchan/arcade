@@ -5,7 +5,7 @@
 | File | Description |
 |---|---|
 | `parts.html` | Main webpage for arcade cabinet parts |
-| `1_and_2_buttons.html` | Webpage for Player 1 and 2 buttons |
+| `1_and_2_buttons.html` | Webpage for 1-player and 2-player control panel buttons |
 | `25P9319.html` | Webpage for green hook-up wire |
 | `33C7338.html` | Webpage for red hook-up wire |
 | `33C7343.html` | Webpage for yellow hook-up wire |
@@ -20,7 +20,7 @@
 | `buttons.html` | Webpage for control panel buttons |
 | `caster.html` | Webpage for arcade cabinet casters |
 | `coin_door.html` | Webpage for coin doors and mechanisms |
-| `cover_plate.html` | Webpage for coverplate for fans |
+| `cover_plate.html` | Webpage for cover plate for fans |
 | `hinge.html` | Webpage for control panel clip-top European hinges |
 | `ipac4.html` | Webpage for I-PAC 4 arcade control interface for arcade buttons and joysticks |
 | `joystick.html` | Webpage for arcade joysticks |
@@ -32,3 +32,4 @@
 | `slotting-cutter.html` | Webpage for slotting cutter used to prepare for T-molding |
 | `spinner.html` | Webpage for control panel spinners |
 | `t-molding.html` | Webpage for T-molding |
+| `trackball.html` | Webpage for the trackball |

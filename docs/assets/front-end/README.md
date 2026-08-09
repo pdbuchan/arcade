@@ -12,4 +12,4 @@
 
 | File | Description |
 |---|---|
-| `front-end.html` | Webpage regarding front-end for operating MAME and selecting MAME ROMS to execute |
+| `front-end.html` | Webpage regarding front-end for operating MAME and selecting MAME ROMs to execute |
