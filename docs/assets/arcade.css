@@ -51,11 +51,6 @@ ol {
   align-items: center;
 }
 
-.gallery-flex img {
-  max-width: auto;
-  height: auto;
-}
-
 /* Keep large images within the browser window on narrow screens. */
 img {
   max-width: 100%;
